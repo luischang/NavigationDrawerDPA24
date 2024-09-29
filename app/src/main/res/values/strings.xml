@@ -12,4 +12,8 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="valtitlelogin">SIGN IN</string>
     <string name="valbtlogin">LOGIN</string>
+    <string name="valetemail">Enter email</string>
+    <string name="valetpassword">Enter password</string>
+    <string name="valeturl">Enter URL</string>
+    <string name="valbtgourl">GO URL</string>
 </resources>
